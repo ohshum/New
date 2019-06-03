@@ -1,0 +1,1 @@
+git config --global hproxyprd.scotia-capital.com http://s1785586@hproxyprd.scotia-capital.com:8080
